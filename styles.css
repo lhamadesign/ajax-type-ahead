@@ -1,6 +1,6 @@
 html {
     box-sizing: border-box;
-    background: #ffc600;
+    background: pink;
     font-family: 'helvetica neue';
     font-size: 20px;
     font-weight: 200;
@@ -69,6 +69,6 @@ html {
     font-size: 15px;
   }
   
-  .hl {
+  .highlighted {
     background: #ffc600;
   }
